@@ -110,4 +110,8 @@ a:hover {
 	margin:10px;
 }
 
+.gallery {
+	max-width:50px;
+	float:right;
+}
 
