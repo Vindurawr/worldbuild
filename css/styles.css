@@ -1,0 +1,111 @@
+body {
+  font-family: Arial, Helvetica, Times New Roman, sans-serif;
+}
+
+/* Style the header */
+.header {
+  background-color: #fff;
+  padding: 5%;
+  text-align: center;
+  /*font-size: 35px;*/
+}
+
+.main {
+	/*background-color: #f1f1f1;*/
+	display: block;
+	margin: 5%;
+	font-family: Times New Roman;
+	font-size:20px;
+	text-align: justify;
+}
+
+
+.topnav {
+	overflow: hidden;
+	background-color: #111;
+	margin: 20px;
+	border-radius: 15px;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #ddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #333;
+    color: #fff;
+	text-decoration: none;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h2{
+	font-family: arial;
+}
+
+h3{
+	font-family:arial;
+}
+p.en{
+	font-family:times new roman;
+	color:#666;
+	padding:0px;
+	white-space: nowrap;
+	font-size:25px;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+	font-size:25px;
+	font-family: arial;
+	line-height:200%;
+
+}
+
+ul.a {
+    list-style-type: none;
+
+}
+
+ul.a:visited{
+	color: gray;
+}
+
+img {
+	display: block;
+	max-width: 70%;
+	border: 5px solid #999999;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: darkgray;
+}
+
+.image_subtitle {
+	font-size: 20px;
+	line-height: 10px;
+	font-family: arial;
+	color: gray;
+	float:right;
+	margin:10px;
+}
+
+
