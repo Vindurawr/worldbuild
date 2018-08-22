@@ -4,10 +4,11 @@ body {
 
 /* Style the header */
 .header {
-  background-color: #fff;
-  padding: 5%;
-  text-align: center;
-  box-shadow: 0px 2px 5px 0px;
+	background-color: #fff;
+	padding: 5%;
+	text-align: center;
+	box-shadow: 0px 2px 5px 0px;
+	border-radius: 15px;
 }
 
 .main {
