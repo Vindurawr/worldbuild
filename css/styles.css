@@ -80,6 +80,7 @@ ul.c {
 	line-height 200%;
 	color: black;
 	border-left: 2px solid red;
+	margin: 5px;
 }
 	
 	
@@ -117,5 +118,5 @@ a:hover {
 .gallery {
 	max-width:50%;
 	float:right;
-	display:block;
+	display:inline;
 }
