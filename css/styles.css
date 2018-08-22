@@ -79,6 +79,14 @@ ul a {
 	color: black;
 }
 
+ul a:visited {
+	color: black;
+}
+
+ul a:link {
+	color: black;
+}
+
 
 ul.c {
 	list-style-type: none;
@@ -94,7 +102,7 @@ ul.c {
 	
 
 a:visited{
-	color: gray;
+	color: darkgray;
 }
 
 img {
