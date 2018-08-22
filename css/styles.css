@@ -71,6 +71,7 @@ ul {
 	line-height:200%;
 	color: black;
 }
+
 ul.c {
 	list-style-type: none;
 	padding: 10px;
@@ -118,7 +119,3 @@ a:hover {
 	float:right;
 	display:block;
 }
-
-.artlist {
-	border: 
-
