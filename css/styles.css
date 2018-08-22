@@ -116,7 +116,7 @@ a:hover {
 .gallery {
 	max-width:50%;
 	float:right;
-	display:inline;
+	display:block;
 }
 
 .artlist {
