@@ -140,4 +140,9 @@ a:hover {
 	max-width:50%;
 	float:right;
 	display:inline;
+	
+}
+
+.clearfix {
+    overflow: auto;
 }
