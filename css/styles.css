@@ -64,19 +64,11 @@ p.en{
 
 
 ul {
-    list-style-type: none;
-    padding: 10px;
+	list-style-type: none;
+	padding: 10px;
 	font-size:25px;
 	font-family: arial;
 	line-height:200%;
-
-}
-
-ul.a {
-	list-style-type: none;
-	color: gray;
-}
-ul.a:visited{
 	color: black;
 }
 
@@ -115,4 +107,7 @@ a:hover {
 	float:right;
 	display:inline;
 }
+
+.artlist {
+	border: 
 
