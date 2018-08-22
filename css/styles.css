@@ -71,6 +71,16 @@ ul {
 	line-height:200%;
 	color: black;
 }
+ul.c {
+	list-style-type: none;
+	padding: 10px;
+	font-size:25px;
+	font-family: arial;
+	line-height 200%;
+	color: black;
+	border-left: 2px solid red;
+	
+	
 
 a:visited{
 	color: gray;
