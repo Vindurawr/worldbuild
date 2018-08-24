@@ -94,6 +94,7 @@ ul a:link {
 
 ul.b {
 	float: right;
+	display:inline;
 	list-style-type: none;
 	padding: 10px;
 	font-size:25px;
