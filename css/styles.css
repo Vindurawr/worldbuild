@@ -78,6 +78,7 @@ ul {
 	font-family: arial;
 	line-height:200%;
 	color: black;
+	max-width: 300px;
 }
 
 ul a {
@@ -101,6 +102,7 @@ ul.b {
 	font-family: arial;
 	line-height 200%;
 	color: black;
+	max-width: 300px;
 }
 
 
