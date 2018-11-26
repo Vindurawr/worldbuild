@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Vind's Lore</title>
+  <meta name="lore" content="lore">
+  <meta name="Johannes Fundell" content="Vinds lore">
+
+  <link rel="stylesheet" type="text/css" href="../css/styles.css">
+  
+</head>
+
+<body>
+
+<div class="topnav">
+		<b><a href="../index.html">Home</a></b>
+		<a href="../religions/religions.html">Religions</a>
+		<a href="../maps/map.html">Maps</a>
+	</div>
+	
+	<div class="header">
+		<h1>	</h1>
+	</div>
+	
+	
+	
+	<div class="main">
+		<p><b>Galaxy</b>The star system is located in the Andromeda galaxy, in a solar system located in one of the outer discs.</p>
+    <p><b>Star System</b>There are several planets in the Star System. See below list of the planets, with the closests planets to the star first:</p>
+      <ul>
+        <li>1. A small rock planet that was originally a rogue caught by the star system, causing it to have an immense inclination (~37 degrees).</li>
+        <li>2. A small rock planet with an inclination of ~7 degrees.</li>
+        <li>3. A medium sized rock planet with an inclination of ~4 degrees.</li>
+        <li>4. A medium sized rock planet with a lot of water and oxygen, it has a strong magnetic field. Inclination at ~5 degrees.</li>
+        <li>5. A medium sized rock planet with a strong magnetic field. Inclination at ~8 degrees.</li>
+        <li>6. An enormous sized gas giant, inclination at ~3 degrees.</li>
+        <li>7. A large sized gas giant, inclination at ~4 degrees.</li>
+        <li>8. A large sized gas giant, inclination at ~7 degrees.</li>
+        <li>9. A small rock planet with an inclination of ~12 degrees.</li>
+        <li>10. A small rock planet with an inclination of ~16 degrees.</li>
+      </ul>
+	</div>
+  
+
+</div>
+
+</body>
+</html>
+	
+</body>
+</html>
